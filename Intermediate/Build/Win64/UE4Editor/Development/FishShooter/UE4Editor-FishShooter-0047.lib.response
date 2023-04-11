@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FishShooter-0047.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\FishShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishPawn.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishPlayerController.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishShooter.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishShooterGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\ScreenConstants.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\TeddyBear.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishPawn.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishPlayerController.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishShooter.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\FishShooterGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\TeddyBear.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\UE4Editor-FishShooter-0047.lib"
+/INCLUDE:IMPLEMENT_MODULE_FishShooter

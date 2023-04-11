@@ -1,0 +1,32 @@
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\Definitions.FishShooter.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Source\FishShooter\TeddyBearSpawner.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Source\FishShooter\TeddyBear.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Source\FishShooter\ConfigurationDataActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Source\FishShooter\ConfigurationDataStruct.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Inc\FishShooter\ConfigurationDataStruct.generated.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Inc\FishShooter\ConfigurationDataActor.generated.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Source\FishShooter\DelegateDeclarations.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Inc\FishShooter\DelegateDeclarations.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Inc\FishShooter\TeddyBear.generated.h
+C:\Users\romar\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Inc\FishShooter\TeddyBearSpawner.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
